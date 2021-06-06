@@ -1,5 +1,4 @@
 # INTUIT CRAFT DEMO
-***
 
 Program created to extract (TweetScrapping) and analyze (TextAnalysis) tweets talking about Intuit's QuickBooks and Bookkeeping.
 
